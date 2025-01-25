@@ -116,3 +116,4 @@ function comparetion(arrayRandom, writeArray) {
     }
     console.log(indovinati)
     return indovinati;
+}
